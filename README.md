@@ -1,2 +1,2 @@
 # project2
-![Status](https://github.com/kottman/project2/actions/workflows/pythonapp.yml/badge.svg)
+![Status](https://github.com/kottman/project2_initial/actions/workflows/pythonapp.yml/badge.svg)
